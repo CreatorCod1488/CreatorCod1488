@@ -6,6 +6,20 @@ I develop modern digital products, intelligent software solutions, and scalable 
 
 My work includes full-stack web development, e-commerce platforms, AI-powered applications, API integrations, business automation, Telegram bots, and custom software solutions.
 
+## Portfolio demonstrations
+
+Three standalone projects built from scratch with fictional brands and synthetic data. These are working technical demonstrations, not client case studies.
+
+| Project | What it demonstrates | Source & setup |
+| --- | --- | --- |
+| **FORMA — Studio website** | Responsive design, project filtering, enquiry form preview | [View project](https://github.com/CreatorCod1488/shaanas-studio-demo) |
+| **OBJECT — Storefront** | Category filters, price sorting, cart quantities and totals, simulated checkout | [View project](https://github.com/CreatorCod1488/shaanas-storefront-demo) |
+| **LeadFlow — API & automation** | Validated Python API, enquiry form, Telegram payload preview, 10 HTTP tests | [View project](https://github.com/CreatorCod1488/shaanas-leadflow-demo) |
+
+**Live demos:** [Open FORMA](https://creatorcod1488.github.io/shaanas-studio-demo/) · [Open OBJECT](https://creatorcod1488.github.io/shaanas-storefront-demo/)
+
+Each repository includes a screenshot, runnable source, and setup instructions. No real payments or Telegram messages are sent. No client data or protected ShaNas Core code is included.
+
 ## Areas of expertise and development
 
 - Full-Stack Web Development
