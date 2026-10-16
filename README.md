@@ -1,14 +1,27 @@
 # Serhii Shalaiev
 
-### Founder of [ShaAnas](https://shaanas.com)
+## Founder & Technology Developer at ShaAnas
 
-**Web & App Development · AI Integrations · APIs & Automation · E-commerce**
+I develop modern digital products, intelligent software solutions, and scalable technology platforms.
 
-ShaAnas helps businesses turn ideas into websites, applications, and connected workflows. We build new solutions, improve existing products, and connect the tools a business already uses.
+My work includes full-stack web development, e-commerce platforms, AI-powered applications, API integrations, business automation, Telegram bots, and custom software solutions.
 
-**Available for freelance projects and remote collaboration worldwide.**
+## Areas of expertise and development
 
-[Discuss your project →](https://shaanas.com)
+- Full-Stack Web Development
+- E-commerce & Marketplace Platforms
+- Artificial Intelligence & AI Integration
+- API Development & Third-Party Integrations
+- Python, JavaScript & TypeScript
+- React, HTML, CSS & Responsive Design
+- Business Process Automation
+- Telegram Bots & Webhooks
+- Real-Time Communication Technologies
+- Voice API & CPaaS Integrations
+- Data Processing & Analytics
+- Custom Software & SaaS Development
+- AI-Powered Virtual Try-On Solutions
+- Security & Communication Safety Technologies
 
 ---
 
@@ -62,17 +75,6 @@ ShaAnas helps businesses turn ideas into websites, applications, and connected w
 - Messaging interfaces and interactive communication workflows.
 - Dashboards that display changing data without manual page refreshes.
 
-## Technologies & focus
-
-| Technology | Typical use |
-| --- | --- |
-| **Python** | Automation, backend services, APIs, and data processing |
-| **TypeScript** | Application logic, integrations, and web development |
-| **React** | Interactive interfaces, dashboards, and web applications |
-| **APIs & webhooks** | Connecting services and coordinating workflows |
-
-The implementation is chosen around the project's requirements, existing systems, and the services available for integration.
-
 ## From idea to delivery
 
 1. **Define the goal** — understand the business task, users, and existing tools.
@@ -83,8 +85,11 @@ The implementation is chosen around the project's requirements, existing systems
 
 ## Let's work together
 
-Looking for a website, an application, a connected online store, or a workflow that saves manual work?
+Available for freelance projects and remote collaboration worldwide.
 
 Tell us what you want to achieve, which tools you use, and what should happen automatically. We can then define a practical scope and delivery plan.
 
-**[Visit ShaAnas →](https://shaanas.com)** · **Worldwide / Remote**
+**ShaAnas — Safer Communications for a More Secure World.**
+
+🌐 [https://shaanas.com](https://shaanas.com)  
+📧 [serhii@shaanas.com](mailto:serhii@shaanas.com)
